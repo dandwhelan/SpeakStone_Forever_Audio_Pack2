@@ -1,0 +1,7 @@
+package-as: SpeakStone_Forever_Audio_Pack2
+enable-nolib-creation: no
+
+ignore:
+  - README.md
+  - .github
+  - .git
