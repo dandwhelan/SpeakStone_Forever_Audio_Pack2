@@ -6980,7 +6980,6 @@ SpeakStoneSoundLengths_Pack_SpeakStone_Forever_Audio_Pack2 = {
     ["item_bloody_note_page1.ogg"] = 14.64,
     ["item_bloody_note_page2.ogg"] = 15.36,
     ["item_bloody_note_page3.ogg"] = 27.76,
-    ["item_civil_war_in_the_plaguelands_page1.ogg"] = 22.16,
     ["item_deathstalker_report_page1.ogg"] = 11.92,
     ["item_maybells_love_letter_page1.ogg"] = 23.63,
     ["item_on_the_windlord_page1.ogg"] = 0.88,
