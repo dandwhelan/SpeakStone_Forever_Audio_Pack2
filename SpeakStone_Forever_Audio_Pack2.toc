@@ -3,7 +3,7 @@
 ## Notes: WoW Forever quest, gossip and book audio, pack 2 of 2. Install all packs. Requires SpeakStone_Forever_Main.
 ## Author: Nerf, SpeakStone@beanw.co.uk
 ## X-Curse-Project-ID: 1710074
-## Version: 3.1.4
+## Version: 3.1.5
 
 ## RequiredDeps: SpeakStone_Forever_Main
 
