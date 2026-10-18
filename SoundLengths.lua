@@ -6120,6 +6120,7 @@ SpeakStoneSoundLengths_Pack_SpeakStone_Forever_Audio_Pack2 = {
     ["97969_description.ogg"] = 18.32,
     ["97970_completion.ogg"] = 25.00,
     ["97970_description.ogg"] = 23.36,
+    ["97971_completion.ogg"] = 26.08,
     ["97971_description.ogg"] = 31.94,
     ["97972_description.ogg"] = 17.90,
     ["97973_description.ogg"] = 23.20,
