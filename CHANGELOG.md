@@ -1,133 +1,144 @@
-# SpeakStone 4.1.0
+# SpeakStone 4.1.1
 
 Voices similar to the in-game characters. Unofficial; not affiliated with Blizzard Entertainment.
 
-Version 4.1.0 covers the base add-ons, every retail sound pack and every WoW Forever pack. All of them are now on 4.1.0.
+Version 4.1.1 covers every retail sound pack and every WoW Forever pack.
 
-## Thank you to everyone who helped
+## Two new donated voices — thank you, Nerf and Herzkollaps!
 
-A huge thank you to everyone who sent in quest text and game data through the website, flagged lines that sounded wrong, and reported problems on GitHub. This release exists because of you.
+Two players recorded and donated their own voices to the project: **Nerf** and **Herzkollaps**. Their voices now speak for human men across Azeroth. If you hear one of the characters below, that is them. Thank you both!
 
-- Cliff, Fiz, Nerf, Klebster, Zen, AuthenticSenpai, silvy, Pappnase, illset, Benny McBackstab, Vanadan
-- Everyone who contributed anonymously
-- Everyone who reported a voice that did not fit its character
+### Nerf's voice (14 characters)
 
-Want to help? Send in quest text, report a line or flag a voice at https://speakstone.beanw.co.uk.
+- Foreman Oslow — Redridge Mountains, Stormwind City (retail and WoW Forever)
+- Seymour — Skinning quests
+- Emery Neill — The Deaths of Chromie quests
+- Lord Arthur Waycrest — Drustvar
+- Knight-Captain Drosche — Icecrown
+- Lieutenant Course — Drustvar
+- Terrance Storm — Badlands
+- Marcus — Gilneas
+- Matthew Churchill — location not recorded
+- Recruit Brutis — Tiragarde Sound
+- Emissary Jacques — location not recorded (WoW Forever)
+- Sebastian Bower — location not recorded
+- Trevan Rol — location not recorded (WoW Forever)
+- Will Melborne — location not recorded
+
+### Herzkollaps's voice (70 characters)
+
+- Brother Paxton — Elwynn Forest, Stormwind City (retail and WoW Forever)
+- Father Inigo Montoy — Naxxramas (retail and WoW Forever)
+- Lieutenant Hawkins — Nazjatar
+- Verner Osgood — Redridge Mountains, Blacksmithing quests (retail and WoW Forever)
+- Garion Wendell — location not recorded (WoW Forever)
+- William Pestle — Elwynn Forest (retail and WoW Forever)
+- Velarok Windblade — Searing Gorge (retail and WoW Forever)
+- Sergeant Gray — Tol Barad Peninsula
+- Sirra Von'Indi — Duskwood (retail and WoW Forever)
+- High Crusader Adelard — Tournament quests
+- Marcus Jensen — Battle Pets quests
+- Bartender Bob — Thaldraszus
+- Deputy Feldon — Redridge Mountains (retail and WoW Forever)
+- Hank the Hammer — Blacksmithing quests (retail and WoW Forever)
+- Researcher Aderan — Howling Fjord
+- Major Mattingly — Stormwind City (retail and WoW Forever)
+- Patrick Eckhart — Stormsong Valley
+- General Marcus Jonathan — Redridge Mountains (retail and WoW Forever)
+- Image of Belgaristrasz — The Oculus
+- Jorgen — Stormwind City (retail and WoW Forever)
+- Lieutenant Balfor — Nagrand
+- Prolific Writer — Uldum
+- Sam Trawley — Southern Barrens
+- Tommy Joe Stonefield — Elwynn Forest (retail and WoW Forever)
+- Ajay Green — Cooking quests
+- Archmage Malin — Stormwind City, Arathi Highlands (retail and WoW Forever)
+- Commander Sharp — Stormwind City
+- Fire Eater — Midsummer quests
+- Sergeant Cleese — Gilneas
+- Yancey Grillsen — Stranglethorn Vale
+- "Stinky" Ignatz — Dustwallow Marsh (retail and WoW Forever)
+- Brother Crowley — Desolace (retail and WoW Forever)
+- Commander Samaul — Stormwind City (retail and WoW Forever)
+- Northwatch Captain Kosak — Stonetalon Mountains
+- Vitus Darkwalker — Gilneas
+- Darin Goodstitch — Tailoring quests
+- Guard Byron — Dustwallow Marsh (retail and WoW Forever)
+- Hellfire Peninsula Flame Warden — Seasonal quests
+- Inquisitor Hallard — Dragonblight
+- Jarrod Hamby — Shadowmoon Valley
+- Jorvan Longmoor — location not recorded
+- Kort Ceefer — Tiragarde Sound, Stormsong Valley
+- Mal — Rogue Campaign quests
+- Newton Burnside — location not recorded (retail and WoW Forever)
+- Rifle Commander Coe — The Stockade
+- Syndicate Infiltrator — location not recorded (WoW Forever)
+- Walton — location not recorded (WoW Forever)
+- Xolartios — Special quests
+- Adorean Lew — location not recorded
+- Allan Hafgan — location not recorded (retail and WoW Forever)
+- Caretaker Allen — Drustvar
+- Corporal Wocard — Stonetalon Mountains
+- Jubahl Corpseseeker — location not recorded (retail and WoW Forever)
+- Kirk Maxwell — location not recorded
+- Lieutenant Walden — Gilneas
+- Martin Victus — Pit of Saron
+- Murog — location not recorded
+- Simeon Griswold — Love is in the Air quests
+- Tanis Alderwood — location not recorded (WoW Forever)
+- The Defias Traitor — Westfall (retail and WoW Forever)
+- Woo Ping — location not recorded (retail and WoW Forever)
+- Captain Shwayder — The King's Path
+- Haelmut Aegisaxe — Hallowfall
+- Miles Sidney — location not recorded
+- Ol' Chumbucket — location not recorded
+- Sorcerer Ashcrombe — location not recorded
+- Steven Walker — location not recorded
+- The Chooch — location not recorded
+- Tom Hegger — location not recorded
+- William — Stormsong Valley
+
+Want to donate your voice too? Get in touch through https://speakstone.beanw.co.uk.
 
 ## What's new
 
-- Around 9,000 lines were re-recorded so that speakers sound more like themselves.
-- About 250 characters now sound much closer to how they sound in the game.
-- Many more voices in the shared race voice groups, so characters of the same race and sex sound more varied and less repetitive ("more dynamic voices").
-- Voices fixed where a character had the wrong gender or race.
-- The Winter Queen and Lord Chamberlain now sound right.
-- WoW Forever packs updated too, with the same voice improvements.
+- About 28,000 retail lines and about 7,900 WoW Forever lines re-recorded since 4.1.0, so characters sound more like themselves.
+- Characters reported as having the wrong voice, the wrong gender or the wrong race were given voices that fit.
+- Many more characters re-shared across their race's voices, so fewer characters share the same voice ("more dynamic voices").
+- A few hundred lines whose exact wording we could not confirm were taken out rather than risk reading the wrong words. They come back as soon as someone sends the text in on the website.
+- Long lines that could run on are now recorded in shorter pieces and joined.
 
-## Voice groups updated
+## Voice groups updated (race and sex)
 
-These race and sex voice groups gained new voices since 4.0.2 (217 new voices in total):
+Characters without a voice of their own speak with a voice from their race and sex group. These groups were rebalanced so the voices are shared out evenly, and voices that did not match the group's race or sex were taken out:
 
-- Human (male): +19 voices
-- Human (female): +14 voices
-- Vulpera (female): +7 voices
-- Draenei (female): +6 voices
-- Dwarf (male): +6 voices
-- Goblin (male): +6 voices
-- Mal'draxxi (female): +5 voices
-- Mal'draxxi (male): +5 voices
-- Orc (male): +5 voices
-- Troll (male): +5 voices
-- Undead (female): +5 voices
-- Venthyr (male): +5 voices
-- Vulpera (male): +5 voices
-- Draenei (male): +4 voices
-- Dragonkin (male): +4 voices
-- Dwarf (female): +4 voices
-- Sethrak (female): +4 voices
-- Tauren (male): +4 voices
-- Faerie (female): +3 voices
-- Faerie (male): +3 voices
-- Gnome (female): +3 voices
-- Goblin (female): +3 voices
-- Jinyu (male): +3 voices
-- Kyrian (female): +3 voices
-- Kyrian (male): +3 voices
-- Night Elf (female): +3 voices
-- Night Elf (male): +3 voices
-- Sethrak (male): +3 voices
-- Sylvar (female): +3 voices
-- Venthyr (female): +3 voices
-- Vrykul (female): +3 voices
-- Worgen (female): +3 voices
-- Worgen (male): +3 voices
-- Blood Elf (female): +2 voices
-- Blood Elf (male): +2 voices
-- Broker (male): +2 voices
-- Dragonkin (female): +2 voices
-- Elemental (male): +2 voices
-- Gnome (male): +2 voices
-- Haranir (male): +2 voices
-- Naga (female): +2 voices
-- Pandaren (female): +2 voices
-- Pandaren (male): +2 voices
-- Titan (female): +2 voices
-- Titan (male): +2 voices
-- Troll (female): +2 voices
-- Undead (male): +2 voices
-- Ankoan (male): +1 voices
-- Arakkoa (male): +1 voices
-- Attendant (female): +1 voices
-- Attendant (male): +1 voices
-- Beast (male): +1 voices
-- Celestial (male): +1 voices
-- Constellar (male): +1 voices
-- Demon (female): +1 voices
-- Demon (male): +1 voices
-- Dom'anaar (male): +1 voices
-- Dracthyr (male): +1 voices
-- Dryad (female): +1 voices
-- Furbolg (male): +1 voices
-- Grummle (male): +1 voices
-- Haranir (female): +1 voices
-- Jinyu (female): +1 voices
-- Loa (male): +1 voices
-- Mogu (male): +1 voices
-- Niffen (female): +1 voices
-- Nightborne (female): +1 voices
-- Nightborne (male): +1 voices
-- Ogre (male): +1 voices
-- Orc (female): +1 voices
-- Spirit (male): +1 voices
-- Sylvar (male): +1 voices
-- Tauren (female): +1 voices
-- Tiger (male): +1 voices
-- Tortollan (female): +1 voices
-- Void (male): +1 voices
-- Vrykul (male): +1 voices
-- Wyrmtongue (male): +1 voices
+- Human (male): 1,212 characters given a fresh voice, 22 voices that did not fit taken out
+- Human (female): 418 characters given a fresh voice, 17 voices that did not fit taken out
+- Dwarf (male): 278 characters given a fresh voice, 6 voices that did not fit taken out
+- Night Elf (female): 259 characters given a fresh voice, 7 voices that did not fit taken out
+- Blood Elf (female): 256 characters given a fresh voice, 8 voices that did not fit taken out
+- Orc (male): 247 characters given a fresh voice, 8 voices that did not fit taken out
+- Night Elf (male): 219 characters given a fresh voice, 9 voices that did not fit taken out
+- Blood Elf (male): 170 characters given a fresh voice, 3 voices that did not fit taken out
+- Troll (male): 165 characters given a fresh voice, 3 voices that did not fit taken out
+- Tauren (male): 125 characters given a fresh voice, 3 voices that did not fit taken out
+- Pandaren (male): 118 characters given a fresh voice, 1 voice that did not fit taken out
+- Undead (male): 117 characters given a fresh voice, 20 voices that did not fit taken out
+- Goblin (male): 115 characters given a fresh voice, 8 voices that did not fit taken out
+- Pandaren (female): 93 characters given a fresh voice, 1 voice that did not fit taken out
+- Dwarf (female): 67 characters given a fresh voice, 5 voices that did not fit taken out
+- Troll (female): 59 characters given a fresh voice, 5 voices that did not fit taken out
+- Broken (male): 52 characters given a fresh voice, 15 voices that did not fit taken out
+- Tauren (female): 47 characters given a fresh voice
+- Goblin (female): 43 characters given a fresh voice, 2 voices that did not fit taken out
+- Worgen (male): 29 characters given a fresh voice, 85 voices that did not fit taken out
+- Worgen (female): 22 characters given a fresh voice, 56 voices that did not fit taken out
+- Dracthyr (female): 12 characters given a fresh voice, 2 voices that did not fit taken out
+- Vulpera (male): 10 characters given a fresh voice, 1 voice that did not fit taken out
+- Vrykul (male): 7 characters given a fresh voice, 1 voice that did not fit taken out
 
-*SpeakStone plays voices similar to the in-game characters. Unofficial; not affiliated with Blizzard Entertainment.*
+Voices that did not fit were also taken out of these groups: Amani Troll, Ancient / Nature, Arakkoa, Ardenweald (Sylvar / Fae), Automa / Attendant, Beast / Wild God, Broken, Broker, Centaur, Dracthyr, Draenei, Dragonkin, Dredger, Drogbar / Trogg, Dryad, Earthen, Elemental, Ethereal, Furbolg / Wolvar, Gnoll / Quilboar, Gnome, Grummle, Haranir, Hozen, Item / Object, Jinyu / Ankoan, Keeper of the Grove, Kobold, Kul Tiran, Kyrian / Steward, Lightforged Draenei, Maldraxxi, Mantid, Mechagnome, Mechanical / Construct, Murloc / Gorloc, Naga, Nightborne, Ogre, Orc, Saurok, Skyborne Elf, Spirit / Ghost, Sporeggar / Fungarian, Stonekeeper, Taunka, Tiger / Cat, Titan / Giant, Tol'vir, Tortollan, Tuskarr, Undead, Venthyr, Void / Naaru / Aberration, Void Elf, Vrykul, Zandalari Troll.
 
-# 3.2.0 (October 2026)
+## Thank you to everyone who helped
 
-This release starts a new phase for SpeakStone: polishing the voices and making sure names are pronounced the way you hear them in the game. Thank you to everyone who reported a line that sounded wrong. Keep the reports coming.
-
-Every SpeakStone add-on is now version 3.2.0: SpeakStone, SpeakStone Forever and every voice pack. Update all of them together.
-
-## Pronunciation
-- Place names that were read as the wrong words are now said properly, among them the Deadmines (it was "Dead Means"), Darkshire ("Dark Shear"), the Burning Steppes, the Plaguelands and Auchindoun.
-- Also corrected: Gorefiend, Bonechewer, Gnarlpine, Runewood, Felrage, Scourgeholme, the Timeways, Blademoon, Barrowknoll, Leyhollow and Westrift.
-- About 1,600 lines re-recorded in the same voices as before, in both retail and WoW Forever.
-
-## Greetings
-- Characters who greeted every player by one class or race ("Greetings, warlock" from Fyrenz Vishonar, the Stormwind transmogrifier) now address everyone as "hero" or "traveller". About 230 lines fixed.
-
-## New lines
-- 38 new lines sent in by players through the website, mostly character greetings.
-
-## Fixes
-- Quest queue: a greeting no longer holds up a quest, and queued lines keep the character's portrait (from 3.1.6, now in every add-on).
-
-Thanks to the players who reported the Deadmines, Darkshire and the Stormwind transmogrifier.
-
-Unofficial; not affiliated with Blizzard Entertainment.
+Thank you to everyone who sent in quest text, flagged lines that sounded wrong, and reported problems. Want to help? Send in quest text, report a line or flag a voice at https://speakstone.beanw.co.uk.
