@@ -5160,6 +5160,7 @@ SpeakStoneSoundLengths_Pack_SpeakStone_Forever_Audio_Pack2 = {
     ["9185_completion.ogg"] = 11.68,
     ["9185_description.ogg"] = 23.92,
     ["9185_progress.ogg"] = 1.92,
+    ["91860_completion.ogg"] = 16.64,
     ["91860_description.ogg"] = 44.37,
     ["91861_description.ogg"] = 9.92,
     ["91862_description.ogg"] = 33.70,
