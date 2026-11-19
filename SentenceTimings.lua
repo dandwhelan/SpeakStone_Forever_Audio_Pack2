@@ -2016,7 +2016,6 @@ local T = {
 ["82083_completion"]="n46,108,214",
 ["82083_description"]="64",
 ["82083_progress"]="n",
-["82084_completion"]="n",
 ["82089_completion"]="n31,72,93,107,147,208,228",
 ["82089_description"]="101,184",
 ["82090_completion"]="24,37",
