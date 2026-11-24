@@ -6651,6 +6651,7 @@ SpeakStoneSoundLengths_Pack_SpeakStone_Forever_Audio_Pack2 = {
     ["95769_progress.ogg"] = 1.17,
     ["95770_progress.ogg"] = 6.06,
     ["95776_progress.ogg"] = 9.74,
+    ["95885_progress.ogg"] = 2.08,
     ["95998_progress.ogg"] = 11.99,
     ["96016_completion.ogg"] = 12.49,
     ["96016_progress.ogg"] = 9.74,
